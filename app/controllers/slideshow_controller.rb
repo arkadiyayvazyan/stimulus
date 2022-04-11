@@ -1,0 +1,2 @@
+class SlideshowController < ApplicationController
+end
