@@ -6,4 +6,6 @@ Rails.application.routes.draw do
    get "hello", to: "hello#index"
    get "clipboard", to: "clipboard#index"
    get "slideshow", to: "slideshow#index"
+   get "messages", to: "messages#index"
+   get "message", to: "messages#message"
 end
