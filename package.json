@@ -1,0 +1,7 @@
+{
+  "name": "stimulus",
+  "version": "1.0.0",
+  "dependencies": {
+    "@hotwired/stimulus": "^3.0.1"
+  }
+}

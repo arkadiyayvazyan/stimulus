@@ -1,0 +1,2 @@
+class ContentLoaderController < ApplicationController 
+end

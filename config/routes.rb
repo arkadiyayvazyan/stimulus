@@ -7,5 +7,6 @@ Rails.application.routes.draw do
    get "clipboard", to: "clipboard#index"
    get "slideshow", to: "slideshow#index"
    get "messages", to: "messages#index"
+   get "content_loader", to: "content_loader#index"
    get "message", to: "messages#message"
 end
